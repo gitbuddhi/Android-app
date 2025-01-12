@@ -98,8 +98,8 @@ class AddTaskActivity : AppCompatActivity() {
             this, task.hashCode(), reminderIntent, PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
         )
 
-        // Trigger after 1 minute (60,000 milliseconds)
-        val triggerTime = System.currentTimeMillis() + 60000
+        // Trger after 1 minute (60,000 milliseconds)
+        val triggerTime = System.currentTimeMillis() + 600
 
         // Schedule the alarm
         alarmManager.setExact(AlarmManager.RTC_WAKEUP, triggerTime, pendingIntent)
