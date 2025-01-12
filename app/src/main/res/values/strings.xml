@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">MindMeld</string>
+
+    <!--    navigation 01  -->
+    <string name="navi01">Thought Analysis...</string>
+    <string name="navi2">Visualize Your DREAMS !</string>
+    <string name="Mindmeld">MindMeld</string>
+    <string name="getst">Get Started</string>
+    <string name="welnote">Discover the Power of AI driven mind mapping and analysis with
+              MindMeld Transform your ideas into structured and insighful maps effortlessly.
+    </string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="usernm">Username</string>
+    <string name="useremil">E-mail</string>
+    <string name="userpss">Password</string>
+    <string name="uconpass">Re-password</string>
+    <string name="logwith">or login with</string>
+    <string name="goog">Google</string>
+    <string name="Facebook">Facebook</string>
+    <string name="remberme">Remember me</string>
+    <string name="donthvacc">Don\'t have an Account?</string>
+    <string name="skype">Skype</string>
+    <string name="dremcatch">DreamCatcher</string>
+    <string name="desdream">Describe Your Dream</string>
+    <string name="dremabt">Dream is about</string>
+    <string name="dremdscrip">Dream Description</string>
+    <string name="dream_hint">Describe dream in detail</string>
+    <string name="voice">Voice Recording</string>
+    <string name="calndr">Date</string>
+    <string name="time">Time</string>
+    <string name="search">Search</string>
+    <string name="stat">Statistics</string>
+    <string name="choosedte">Choose date</string>
+    <string name="insight">Weekly Insight</string>
+    <string name="save">Save</string>
+    <string name="ai">AI Analysis</string>
+    <string name="dreamdes">The AI has detected trends in your thought pattern.this line chart shows how your dreams has evolved over time</string>
+    <string name="patern">Patterns Identified</string>
+    <string name="categorymap">This chart shows possible results according to MindMap explorer</string>
+    <string name="rate">Rate</string>
+    <string name="orlog">or login with</string>
+    <string name="Flying">Flying</string>
+    <string name="Themes">Themes</string>
+    <string name="des1">Flying in dreams often represents a sense of freedom and control over one’s life. It can also indicate a desire to rise above challenges.</string>
+    <string name="Chasing">Chasing</string>
+    <string name="des2">Dreams about being chased often signify running away from a problem or fear in waking life. It can also represent anxiety and stress.</string>
+    <string name="Symbols">Symbols</string>
+    <string name="des3">Water in dreams typically symbolizes emotions and the subconscious. Calm water suggests tranquility, while turbulent water may indicate emotional turmoil.</string>
+    <string name="Water">Water</string>
+    <string name="des4">Keys in dreams often represent access, knowledge, or secrets. Finding a key can indicate a solution to a problem, while losing a key can suggest feeling locked out or restricted.</string>
+    <string name="Keys">Keys</string>
+    <string name="Emotions">Emotions</string>
+    <string name="Happiness">Happiness</string>
+    <string name="des5">Dreams featuring happiness often reflect a sense of contentment and fulfillment. They might indicate that you’re on the right path or experiencing joy in your waking life.</string>
+    <string name="Fear">Fear</string>
+    <string name="des6">Experiencing fear in dreams can highlight anxiety, stress, or unresolved issues. It often signifies that you are grappling with something that feels threatening or unsettling in your waking life.</string>
+    <string name="db">Dream Blog</string>
+    <string name="mysum">My summary</string>
+    <string name="rem">Reminder</string>
+    <string name="dgblog">Dream Blog</string>
+    <string name="ts">App version 1.0 | Terms of Service</string>
+    <string name="states">Statics</string>
+    <string name="delete">delete</string>
+    <string name="edit">edit</string>
+    <string name="alarm">Alarm is fired!!!!!</string>
+</resources>
